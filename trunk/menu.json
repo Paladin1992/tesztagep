@@ -1,0 +1,42 @@
+[
+    {
+        "menuItemCaption": "Főoldal",
+        "h1": "Főoldal",
+        "classes": "",
+        "url": "fooldal",
+        "keywords": "",
+        "description": ""
+    },
+    {
+        "menuItemCaption": "Adapterek",
+        "h1": "Adapterek",
+        "classes": "",
+        "url": "adapterek",
+        "keywords": "",
+        "description": ""
+    },
+    {
+        "menuItemCaption": "Tésztafajták",
+        "h1": "Tésztafajták",
+        "classes": "",
+        "url": "tesztafajtak",
+        "keywords": "",
+        "description": ""
+    },
+    {
+        "menuItemCaption": "Liszt kisokos",
+        "h1": "Liszt kisokos",
+        "classes": "",
+        "url": "liszt-kisokos",
+        "keywords": "",
+        "description": ""
+    },
+    {
+        "menuItemCaption": "Videók",
+        "h1": "Videók",
+        "classes": "",
+        "url": "videok",
+        "keywords": "",
+        "description": ""
+    }
+]
