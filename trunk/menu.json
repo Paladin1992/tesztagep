@@ -1,16 +1,16 @@
 [
     {
-        "menuItemCaption": "Főoldal",
-        "h1": "Főoldal",
-        "classes": "",
-        "url": "fooldal",
+        "menuItemCaption": "Tésztagép",
+        "h1": "Tésztagép",
+        "classes": "content",
+        "url": "tesztagep",
         "keywords": "",
         "description": ""
     },
     {
         "menuItemCaption": "Adapterek",
         "h1": "Adapterek",
-        "classes": "",
+        "classes": "content",
         "url": "adapterek",
         "keywords": "",
         "description": ""
@@ -18,7 +18,7 @@
     {
         "menuItemCaption": "Tésztafajták",
         "h1": "Tésztafajták",
-        "classes": "",
+        "classes": "content",
         "url": "tesztafajtak",
         "keywords": "",
         "description": ""
@@ -26,7 +26,7 @@
     {
         "menuItemCaption": "Liszt kisokos",
         "h1": "Liszt kisokos",
-        "classes": "",
+        "classes": "content",
         "url": "liszt-kisokos",
         "keywords": "",
         "description": ""
@@ -34,8 +34,16 @@
     {
         "menuItemCaption": "Videók",
         "h1": "Videók",
-        "classes": "",
+        "classes": "content",
         "url": "videok",
+        "keywords": "",
+        "description": ""
+    },
+    {
+        "menuItemCaption": "Kapcsolat",
+        "h1": "Kapcsolat",
+        "classes": "content",
+        "url": "kapcsolat",
         "keywords": "",
         "description": ""
     }

@@ -34,13 +34,17 @@
         $pageToExclude = in_array($page, $exclude);
 
         if (!$pageToExclude) {
+            $result = '';
+
             if ($wrap_in_h1) {
                 $classes = get_menu_item_data($page)['classes'];
                 $classes = $classes == '' ? '' : ' class="'.$classes.'"';
-                echo '<h1'.$classes.'>'.get_menu_item_data($page)['h1'].'</h1>';
+                $result = '<h1'.$classes.'>'.get_menu_item_data($page)['h1'].'</h1>';
             } else {
-                echo get_menu_item_data($page)['menuItemCaption'];
+                $result = get_menu_item_data($page)['menuItemCaption'];
             }
+
+            echo $result;
         }
     }
 
